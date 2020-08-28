@@ -1,0 +1,4 @@
+static：index.html 的.css文件
+templates: 模板即首页：index.html
+app.py:主体
+
